@@ -1,0 +1,30 @@
+{
+  "name": "gosaas-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@iconify-icons/mdi": "^1.2.48",
+    "@iconify/react": "^6.0.0",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.7",
+    "html-react-parser": "^5.2.5",
+    "next": "15.3.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-simple-star-rating": "^5.1.7",
+    "react-toastify": "^11.0.5",
+    "sass": "^1.89.2",
+    "swiper": "^11.2.10"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.5"
+  }
+}
